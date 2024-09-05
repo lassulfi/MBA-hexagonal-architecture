@@ -1,0 +1,3 @@
+# .graphqlrc.yml or graphql.config.yml
+schema: 'schema.graphql'
+documents: 'src/**/*.{graphql,gqls,js,ts,jsx,tsx}'
